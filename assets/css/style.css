@@ -1,0 +1,22 @@
+.titlebold{
+    font-style: bold;
+}
+.arial{
+    font-family: arial;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.italic{
+    font-style: italic;
+
+}
+.marge { margin: 10px;
+}
+div{
+    background-color: royalblue;
+    padding: 10px;
+}
